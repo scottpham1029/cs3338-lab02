@@ -1,0 +1,45 @@
+commit c4778e2e6159de16c140d492f0c6d636e407b451
+Merge: 14fba86 fac53ad
+Author: scottpham1029 <scottpham1029@gmail.com>
+Date:   Thu Feb 5 23:15:26 2026 -0800
+
+    resolve merge conflict in index.html
+
+commit fac53ad3ec7ab214718bdbeab7d8c5695f3faf67
+Author: scottpham1029 <scottpham1029@gmail.com>
+Date:   Thu Feb 5 23:11:47 2026 -0800
+
+    Add favorite movie/game div
+
+commit 14fba86a89b8b225b1de8f2997f035cf51b96077
+Author: scottpham1029 <scottpham1029@gmail.com>
+Date:   Thu Feb 5 23:10:00 2026 -0800
+
+    Add favorite food div
+
+commit 26d42272c8124c1e03d2f668a76240a5c801c112
+Author: scottpham1029 <scottpham1029@gmail.com>
+Date:   Thu Feb 5 23:05:03 2026 -0800
+
+    Added README
+
+commit a246d1713a72db9d659f15dcd053ff0bedce996e
+Merge: 1d2bfc0 0f5e1f4
+Author: scottpham1029 <scottpham1029@gmail.com>
+Date:   Thu Feb 5 23:01:35 2026 -0800
+
+    Merge pull request #1 from scottpham1029/info-fill
+    
+    Fill in the blanks
+
+commit 0f5e1f427790f812e8f6f00b2592451603ac3226
+Author: scottpham1029 <scottpham1029@gmail.com>
+Date:   Thu Feb 5 22:52:06 2026 -0800
+
+    Fill in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
